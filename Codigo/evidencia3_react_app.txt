@@ -1,0 +1,1 @@
+# Proyecto en React - Estructura y componentes principales
